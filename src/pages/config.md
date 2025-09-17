@@ -1,5 +1,5 @@
 - pathPrefix:
-    - /dev-site-documentation-template/
+    - /eds-cc-playground/
 
 - versions:
     - [v2.0](/index.md) selected
